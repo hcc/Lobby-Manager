@@ -1,0 +1,4 @@
+name: Lobbymanager
+version: ${project.version}
+main: com.hardcorecraft.plugins.lobbymanager.Lobbymanager
+api-version: 1.16
