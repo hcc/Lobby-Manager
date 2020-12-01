@@ -1,0 +1,21 @@
+# What percent damage resistance each piece has
+# Damage resistance is calculated by iterating 
+# over each piece and applying the percentage.
+armor:
+  "Mithril Helmet":
+    properties:
+      damageResist: 25
+      knockbackResist: 0
+  "Mithril Chestplate":
+    properties:
+      damageResist: 50
+      knockbackResist: 0
+  "Mithril Leggins":
+    properties:
+      damageResist: 35
+      knockbackResist: 0
+  "Mithril Boots": 
+    properties:
+      damageResist: 20
+      knockbackResist: 0
+
